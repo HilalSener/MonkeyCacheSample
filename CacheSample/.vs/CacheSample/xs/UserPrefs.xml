@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B7E92FA0-F172-47B0-AD5F-F04DDB66BB68}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CacheSample/Service.cs">
+    <Files>
+      <File FileName="CacheSample/Model/CurrencyModel.cs" Line="14" Column="45" />
+      <File FileName="CacheSample/View/CurrencyPage.xaml" Line="17" Column="100" />
+      <File FileName="CacheSample/ViewModel/CurrencyPageViewModel.cs" Line="16" Column="1" />
+      <File FileName="CacheSample/App.xaml.cs" Line="16" Column="64" />
+      <File FileName="CacheSample/Service.cs" Line="34" Column="10" />
+      <File FileName="CacheSample.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hilalsener/Projects/CacheSample/CacheSample/MainPage.xaml.cs" relfile="CacheSample/MainPage.xaml.cs" line="24" column="51" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CacheSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3AC975E-C4E3-452D-B7BA-588116665144" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CacheSample.Android PreferredExecutionTarget="Android.nexus_5x" />
+</Properties>

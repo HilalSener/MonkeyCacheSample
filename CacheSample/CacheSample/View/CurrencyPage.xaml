@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewModel="clr-namespace:CacheSample.ViewModel" x:Class="CacheSample.View.CurrencyPage">
+    <ContentPage.BindingContext>
+        <viewModel:CurrencyPageViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand">
+            <Grid BindingContext="{Binding Details}" HeightRequest="100" Margin="10">
+                <StackLayout Orientation="Horizontal">
+                    <Label HorizontalOptions="StartAndExpand" Text="6 digit your card" />
+                    <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" Text="45717360" IsEnabled="false" />
+                </StackLayout>
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Label HorizontalOptions="StartAndExpand" Text="{Binding Countries.Emoji}" />
+                        <Label Text="{Binding Countries.Name}" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                    <Label Text="{Binding Bank.Name}" HorizontalOptions="FillAndExpand" />
+                    <Label Text="{Binding Type}" HorizontalOptions="FillAndExpand" />
+                    <Label Text="{Binding Brand}" HorizontalOptions="FillAndExpand" />
+                    <Label Text="{Binding Bank.Url}" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

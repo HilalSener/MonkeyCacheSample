@@ -1,0 +1,12 @@
+/Users/hilalsener/Projects/CacheSample/CacheSample/bin/Debug/netstandard2.0/CacheSample.deps.json
+/Users/hilalsener/Projects/CacheSample/CacheSample/bin/Debug/netstandard2.0/CacheSample.dll
+/Users/hilalsener/Projects/CacheSample/CacheSample/bin/Debug/netstandard2.0/CacheSample.pdb
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/View/CurrencyPage.xaml.g.cs
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.csproj.CoreCompileInputs.cache
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.AssemblyInfoInputs.cache
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.AssemblyInfo.cs
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.dll
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.pdb
+/Users/hilalsener/Projects/CacheSample/CacheSample/obj/Debug/netstandard2.0/CacheSample.csprojAssemblyReference.cache
